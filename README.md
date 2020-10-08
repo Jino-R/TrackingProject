@@ -1,5 +1,5 @@
 # TrackingProject
-Kepps track of prject details entered by the user 
+Keeps track of prject details entered by the user 
 
 
 Capstone Project for Hyperion Dev
